@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advertisements from the delegates of convocation for his Majesties reception, for the heads of houses to deliver with great charge unto their companies..</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27734</idno><idno type="EEBO-CITATION">99826768</idno>
+  <idno type="VID">206049</idno>
+  <idno type="EEBO-PROQUEST">2240883765</idno>
+  
+            <idno type="STC">Wing O859</idno>
+            <idno type="PROQUEST">99826768</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826768e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206049)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1769:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advertisements from the delegates of convocation for his Majesties reception, for the heads of houses to deliver with great charge unto their companies..</title>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1663].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, 1630-1685 --  Early works to 1800.</term>
+               <term type="corporate_name">University of Oxford --  Early works to 1800.</term>
+               <term type="topical_term">Visits of state --  England --  Oxford --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="orders">
+            <pb facs="tcp:206049:1"/>
+            <head>
+               <hi>Advertisements from the</hi> Delegates <hi>of</hi> Convocation <hi>for his</hi> Majesties Reception, <hi>for the</hi> Heads <hi>of</hi> Houses <hi>to deliver with great charge unto their Companies.</hi>
+            </head>
+            <p n="1">1 THat they admonish all such as are under their charge, that they appear no where abroad, during the Kings abode in the University, without their Caps and Gownes suitable to their Degree and Condition; and that their Hair, and Apparell be such as the Statutes prescribe.</p>
+            <p n="2">2 That no Schollar of what Condition soever shall presume to goe out to meet the King, either on Foot, or on Hors-back; or to be at, or upon the way, where the King is to come; but shall attend in that Place, and Posture, wherein he shall be required to be upon notice from his Superiours.</p>
+            <p n="3">3. That no Schollar come into the Presence, or neer any of the Kings Offices, as His Kitchin, Buttery, or any places about the Court, especially about Meal-times.</p>
+            <p n="4">4. That on Wednesday in the Afternoon, at the Ringing of S<seg rend="sup">t</seg> Maries great Bell, all Persons, Graduats, and others, (that doe not ride out with Mr. Vice-Chancellour) forthwith repair to the Schooles Quadrangle, thence to goe in Order to the Street above Christ Church West-Gate, there to stand in Rank, One by One, on each side of the Street as farre as Bocardo: The Noble men and Doctors standing next to the Gate, and so the rest according to their Quality and Degree; and there to remain quietly, till his Majesty, and His Train be passed; and then every man immediately to depart to his Colledge or Hall.</p>
+            <p n="5">5. That the same Order be observed, <hi>Mutatis mutandis,</hi> at what time his Ma<g ref="char:EOLhyphen"/>jesty shall be pleased to visit the Library; all being required to meet, in order thereunto in Oriel Colledge Quadrangle, to receive Directions from Mr. Vice-Chancellor, and those that have Procuratoriall power, who shall place them in convenient stations from the Schooles South-Gate, to Christ Church East-Gate. the Seniours still standing next the Schooles. And as soon as his Majesty and his Train shall have enter'd the Schooles, every one is required to depart to his own Colledge or Hall, to be in readinesse to attend upon his Majesty, if He shall be pleased to visit any of the Colledges.</p>
+            <p>If any shall offend against any of these Orders, he shall (beside the ordinary punishment of the Statutes to be inflicted upon him) be enter'd also into the Black-book, and so kept back from his Degree. And all Masters that are entrusted with the Procuratoriall power, are required <hi>Virtute juramenti</hi> to see these Orders Execu<g ref="char:EOLhyphen"/>ted and punctually observed.</p>
+            <div type="list">
+               <head>
+                  <hi>The Names of the</hi> Masters <hi>of</hi> Arts <hi>that have a Procuratoriall Power committed to them during his Majesties abode in the Ʋniversity.</hi>
+               </head>
+               <list>
+                  <item>Mr. <hi>Whitford</hi> Aed. Christ.</item>
+                  <item>Mr. <hi>Vincent.</hi> Aed. Christ.</item>
+                  <item>Mr. <hi>Nalton.</hi> Coll. Magd.</item>
+                  <item>Mr. <hi>Mew.</hi> Coll. Magd.</item>
+                  <item>Mr. <hi>Grent.</hi> Coll. Nov.</item>
+                  <item>Mr. <hi>Ʋpton.</hi> Coll Om. An. </item>
+                  <item>Mr. <hi>Vernon.</hi> Coll Om. An.</item>
+                  <item>Mr. <hi>Whitehall</hi> Coll, Mert.</item>
+                  <item>Mr. <hi>Bold.</hi> C. C. C.</item>
+                  <item>Mr. <hi>Speed.</hi> Coll. D. Joh.</item>
+                  <item>Mr. <hi>Edwards</hi> Coll. D. Joh.</item>
+                  <item>Mr. <hi>Hamer</hi> Coll. Aen. N.</item>
+                  <item>Mr. <hi>Greenwood</hi> Coll. Aen. N.</item>
+                  <item>Mr. <hi>Farrar.</hi> Coll. Univers.</item>
+                  <item>Mr. <hi>Davis.</hi> Coll. Exon.</item>
+                  <item>Mr. <hi>Marsh</hi> Coll. Exon.</item>
+                  <item>M. <hi>Harrison.</hi> Coll. Reg.</item>
+                  <item>M. <hi>Skelton</hi> Coll. Reg.</item>
+                  <item>Mr. <hi>Sparks.</hi> Coll Trin.</item>
+                  <item>Mr. <hi>Washbourn</hi> jun. Coll. Oriel.</item>
+                  <item>Mr. <hi>Jones.</hi> Coll. Lincoln.</item>
+                  <item>Mr. <hi>Ironside</hi> Coll. Wadh.</item>
+                  <item>Mr. <hi>LLoyd.</hi> Coll. Wadh.</item>
+                  <item>Mr. <hi>Ven.</hi> Coll. Baliol.</item>
+                  <item>Mr. <hi>Bowen</hi> Coll. Jesu.</item>
+                  <item>Mr. <hi>Hall</hi> jun. Coll. Pemb.</item>
+                  <item>Mr. <hi>Pullen.</hi> An. Magd.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
